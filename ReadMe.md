@@ -59,5 +59,6 @@
 - Spring Core
 - Spring MVC
 - JdbcTemplate
+- Liquibase
 
 База данных: PostreSQL
